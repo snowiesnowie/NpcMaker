@@ -1,0 +1,12 @@
+C:\Users\Owner\source\repos\FlatUINpcMaker\FlatUINpcMaker\bin\Debug\FlatUINpcMaker.exe.config
+C:\Users\Owner\source\repos\FlatUINpcMaker\FlatUINpcMaker\bin\Debug\FlatUINpcMaker.exe
+C:\Users\Owner\source\repos\FlatUINpcMaker\FlatUINpcMaker\bin\Debug\FlatUINpcMaker.pdb
+C:\Users\Owner\source\repos\FlatUINpcMaker\FlatUINpcMaker\bin\Debug\FlatUI.dll
+C:\Users\Owner\source\repos\FlatUINpcMaker\FlatUINpcMaker\obj\Debug\FlatUINpcMaker.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\FlatUINpcMaker\FlatUINpcMaker\obj\Debug\FlatUINpcMaker.Form1.resources
+C:\Users\Owner\source\repos\FlatUINpcMaker\FlatUINpcMaker\obj\Debug\FlatUINpcMaker.Properties.Resources.resources
+C:\Users\Owner\source\repos\FlatUINpcMaker\FlatUINpcMaker\obj\Debug\FlatUINpcMaker.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\FlatUINpcMaker\FlatUINpcMaker\obj\Debug\FlatUINpcMaker.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\FlatUINpcMaker\FlatUINpcMaker\obj\Debug\FlatUINpcMaker.csproj.CopyComplete
+C:\Users\Owner\source\repos\FlatUINpcMaker\FlatUINpcMaker\obj\Debug\FlatUINpcMaker.exe
+C:\Users\Owner\source\repos\FlatUINpcMaker\FlatUINpcMaker\obj\Debug\FlatUINpcMaker.pdb
